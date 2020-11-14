@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="tw">
+　<head>
+　　　　<meta charset="utf-8">
+     　 <title>小黑的奇妙世界</title>
+　　　　<meta name="description" content="烘焙/畫畫/文創">
+        <link rel="stylesheet" href='style.css'>
+　</head>
+<body>
+  <header>
+　　<h1>恭喜你來到 小黑的手作世界</h1>  　
+<nav class='navigation'>
+<ul>
+<li><a href='#profile'>自我介紹</a></li>
+<li><a href='#concert'>個人作品</a></li>
+ <li><a href="030.html" target=_blank">甜點介紹</a></li>
+ <li><a href="https://miki1101.github.io/wwww/">搜尋一下</a></li>
+<li><a href='https://www.nuu.edu.tw/' target="_blank">國立聯合大學</a></li>
+<li><a href='https://ccdm.nuu.edu.tw/' target="_blank">文創系</a></li>
+
+　　</ul>
+    </nav>
+  </header>
+<main>
+　　　　<div class="mainvisual">
+        <img src="00.png" alt='主視覺圖片' width='740' height='340'>
+        </div>
+
+        <article id='profile'>
+        <div class='inner'>
+        <h2>自我介紹</h2>
+        <p>歹給賀! 我是洪翊瑄</p>
+<p>我來自台南 畢業於台南二中 ~
+<p>現在就讀聯合大學店(x
+<p>很愛美食、動物等等
+<p>我喜歡自己手作飾品還有甜點!希望我能開一間自己的甜點店以及網路經營手作店!
+<p>如果開店希望大家多多支持!!!
+<p>___2020.11.09</p>
+        </div>
+        </article>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+ <section>
+ <h3>個人簡歷</h3>
+ <table>
+ 
+<tr>
+<tr><th>生日</th><td>90/11/1</td></tr>
+<tr><th>星座</th><td>天蠍座</td></tr>
+<tr><th>血型</th><td>O型</td></tr>
+<tr><th>現職</th><td>聯大文創系的菜鳥學生</td></tr>
+<tr><th>學歷</th><td>國立臺南第二高級中學</td></tr>
+<tr><th>專長</th><td>吃喝睡</td></tr>
+<tr><th>興趣</th><td>畫畫 烘焙 遊戲 追劇 美食 梗圖 YT...很多很多</td></tr>
+<tr><th>個性</th><td>怕生 忽冷忽熱</td></tr>
+ </table>
+ </section>
+<article id="concert">
+<div class="inner">
+
+<h2>個人作品</h2>
+<BR>
+<BR>
+ <p>◆ 飾品</p>
+<BR>
+<img src="0.jpg" width='240' height='240'>
+<img src="1.jpg" width='240' height='240'>
+<img src="2.jpg" width='240' height='240'>
+<img src="3.jpg" width='240' height='240'>
+<img src="4.jpg" width='240' height='240'>
+<img src="6.jpg" width='240' height='240'>
+<img src="7.jpg" width='240' height='240'>
+<img src="8.jpg" width='240' height='240'>
+<img src="9.jpg" width='240' height='240'>
+<img src="10.jpg" width='240' height='240'>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<p>◆ 畫畫(僅存少部分 待更)</p>
+<BR>
+<img src="11.png" width='370' height='320'>
+<img src="12.png" width='370' height='320'>
+<img src="13.jpg" width='414' height='552'>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<p>◆ (甜點照片不見了 待更)</p>
+<BR>
+<BR>
+
+<p>~持續更新中~</p>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<section>
+<h3>個人照片</h3>
+<section class="performer">
+<img src="19.jpg" width="576"height="864">
+<h4>◆是我啦!嚇死你◆</h4>
+</section>
+
+<BR>
+<BR>
+<section class="performer">
+<img src="14.jpg" width="739"height="554">
+<h4>◆ 台南二中SSS志工團出任務嘍~</h4>
+</section>
+
+<BR>
+<BR>
+<section class="performer">
+<img src="20.jpg" width="384"height="576">
+<h4>◆ 偶跑步看起來太輕鬆了吧!</h4>
+<h4>忽略前面的人拉XD</h4>
+</section>
+
+<BR>
+<BR>
+<section class="performer">
+<img src="21.jpg" width="739"height="554">
+<h4>◆ 你知道我在看你嗎~</h4>
+</section>
+
+<BR>
+<BR>
+<section class="performer">
+<img src="15.jpg" width="416"height="312">
+<h4>◆ 扮鬼臉~ 豪恐怖呀!</h4>
+</section>
+
+<BR>
+<BR>
+<section class="performer">
+<img src="22.jpeg" width="719"height="576">
+<h4>◆ 我們是校園四花吧?</h4>
+</section>
+
+<BR>
+<BR>
+<section class="performer">
+<img src="23.jpg" width="526"height="779">
+<h4>◆ 高中小班遊!</h4>
+</section>
+
+<BR>
+<BR>
+<section class="performer">
+<img src="24.jpg" width="306"height="594">
+<h4>◆ 萬聖節裝扮! ~黑女巫與小黑貓~</h4>
+</section>
+
+</ol>
+</section>
+</article>
+</main>
+<footer>
+<p class="pagetop"><a href="#top">回到首頁</a></p>
+<p class="copyright"><small>&copy;CopyRight2020 文創學系回到首頁</small></p>
+</footer>
+</body>
+</html>
